@@ -3,7 +3,7 @@ import logo from './logo.svg';
 function App() {
   return (
     <div className="App">
-      <h1>Potato</h1>
+      <p className='font-xl'>Potato</p>
     </div>
   );
 }
